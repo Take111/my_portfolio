@@ -2,5 +2,6 @@
 
 This is my description repository
 
-English ver: 
-Japanese ver: 
+English ver: TBD
+
+[Japanese ver](/ja/経歴.md)
